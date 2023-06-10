@@ -1,0 +1,35 @@
+Copy selected text to clipboard (copy/paste buffer)
+command c
+2. Paste from buffer
+command v
+3. Cut selected text to buffer (selected text is deleted)
+command x
+4. Save current file in VSCode
+command s
+5. Toggle block comment in VSCode
+shift option a
+6. Toggle line comment in VSCode
+command /
+7. Move cursor from word to word right
+option + →
+8. Move cursor from word to word left
+option + ←
+9. Select word right
+shift + option + →
+10. Select word left
+Shift + option + ←
+11. Select all contents
+shift + command + ↓
+12. Select current line, including end of line character
+Shift + command + →
+13. Jump to start of line
+Command + ←
+14. Jump to end of line
+Command + →
+15. Jump to beginning of current file
+Command + ↑
+
+total 680
+-rw-r--r--@ 1 kobepane  staff  342745 Apr  7 00:41 lab-01-folders.png
+-rw-r--r--@ 1 kobepane  staff     475 Apr  7 01:07 lab-01-folders.txt
+-rw-r--r--@ 1 kobepane  staff       0 Apr  7 01:10 lab-01-shortcuts-txt
